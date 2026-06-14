@@ -1,0 +1,772 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kedai Kita — Cozy Cafe x Fashion Concept</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="#" class="logo-link">
+                <img src="Logo Kedai Kita.jpeg" alt="Logo Kedai Kita" class="nav-logo-img">
+            </a>
+            <div class="nav-menu">
+                <a href="#profile">Profile</a>
+                <a href="#campaign">Campaign</a>
+                <a href="#assets">Assets</a>
+                <a href="#agency">Agency</a>
+                <a href="#contact">Contact</a>
+            </div>
+        </div>
+    </nav>
+
+    <header class="section-hero">
+        <div class="hero-content">
+            <span class="badge">COZY CAFE X FASHION CONCEPT</span>
+            <h1>Kedai Kita</h1>
+            <p class="hero-tagline">Where Warm Flavors Meet Elegant Textures</p>
+        </div>
+        <span class="floating-accent pizza-icon">🍕</span>
+        <span class="floating-accent fashion-icon">✨</span>
+    </header>
+
+    <main>
+        <section id="profile" class="container">
+            <div class="profile-card">
+                <h2>Profile</h2>
+                <div class="image-gallery">
+                    <img src="Suasana Cafe Kedai Kita (2).jpeg" alt="Suasana Cafe Kedai Kita">
+                    <img src="Suasana Cafe Kedai Kita (3).jpeg" alt="Suasana Cafe Kedai Kita">
+                </div>
+                <p>Kedai Kita Bintaro adalah restoran keluarga di kawasan Bintaro Jaya, Tangerang Selatan, yang menghadirkan pengalaman kuliner dengan suasana nyaman, hangat, dan modern. Menyajikan berbagai menu favorit seperti pizza kayu bakar dan mi hot plate, Kedai Kita Bintaro menjadi pilihan tepat untuk makan bersama keluarga, teman, maupun komunitas. Dengan konsep yang estetik dan ramah untuk berbagai aktivitas, kami berkomitmen menciptakan momen kebersamaan yang berkesan bagi setiap pengunjung.</p>
+            </div>
+
+            <div class="vision-mission-grid">
+                <div class="vm-block">
+                    <h3>Visi</h3>
+                    <p>Menjadi restoran keluarga dan ruang berkumpul pilihan di Bintaro yang menghadirkan kuliner berkualitas, suasana nyaman, serta mendukung interaksi sosial dan gaya hidup modern.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="campaign" class="section-campaign">
+            <div class="campaign-bg-graphics"></div>
+            <div class="container">
+                <div class="campaign-hero-center">
+                    <span class="campaign-badge">Social Media Campaign</span>
+                    <h2 class="campaign-title">Show Your Style x Kedai Kita</h2>
+                    <p class="campaign-tagline">"Your Style, Your Story."</p>
+                </div>
+
+                <div class="campaign-explanation">
+                    <div class="explanation-inner">
+                        <h3>Tentang Kampanye</h3>
+                        <p>Show Your Style x Kedai Kita adalah kampanye media sosial yang mengajak pengunjung, khususnya Generasi Z dan Milenial, untuk mengekspresikan gaya dan kepercayaan diri mereka. Kampanye ini tidak hanya mengajak bergaya di dalam resto, tetapi juga mengingatkan setiap orang untuk berani dan ekspresif dengan gaya personalnya di kehidupan sehari-hari mereka.</p>
+                        <p>Peserta cukup mengunggah foto atau video OOTD (Outfit of The Day) di Instagram Story, kemudian menandai akun Instagram resmi Kedai Kita Bintaro dan menggunakan hashtag kampanye yang telah ditentukan. Kedai Kita hadir menjadi wadah yang tepat untuk berekspresi karena tempatnya yang estetik. Melalui partisipasi ini, pengunjung turut menciptakan konten yang membantu memperluas jangkauan promosi Kedai Kita Bintaro secara organik.</p>
+                        <p>Kampanye ini bertujuan untuk meningkatkan brand awareness, memperkuat engagement pelanggan, serta memperkenalkan Kedai Kita Bintaro sebagai destinasi kuliner yang nyaman, estetik, dan dekat dengan gaya hidup anak muda. Dengan menggabungkan unsur fashion, media sosial, dan pengalaman kuliner, Show Your Style x Kedai Kita hadir untuk menciptakan pengalaman yang seru, interaktif, dan menumbuhkan rasa percaya diri di mana pun mereka berada.</p>
+                    </div>
+                </div>
+
+                <h3 class="objectives-title-main">Campaign Objective</h3>
+                <div class="objectives-row">
+                    <div class="objective-card">
+                        <div class="obj-header">
+                            <div class="obj-type">A</div>
+                            <h4>Informational Objectives</h4>
+                        </div>
+                        <p>Meningkatkan brand awareness Kedai Kita Bintaro di kalangan perempuan Generasi Z dan Milenial sebagai restoran dengan kuliner berkualitas, suasana nyaman, estetik, dan cocok untuk bersosialisasi serta berbagi momen di media sosial. Kampanye ini juga bertujuan untuk membangun awareness positif bahwa berpakaian adalah cara untuk mengekspresikan diri secara bebas.</p>
+                    </div>
+
+                    <div class="objective-card">
+                        <div class="obj-header">
+                            <div class="obj-type">B</div>
+                            <h4>Motivational Objectives</h4>
+                        </div>
+                        <p>Mendorong pengunjung untuk berpartisipasi dalam kampanye dengan mengunggah OOTD di Instagram Story, menandai akun Kedai Kita Bintaro, dan menggunakan hashtag kampanye. Selain itu, kami mengajak dan memberikan motivasi agar audiens merasa lebih percaya diri dengan OOTD yang mereka kenakan.</p>
+                    </div>
+
+                    <div class="objective-card">
+                        <div class="obj-header">
+                            <div class="obj-type">C</div>
+                            <h4>Measurable Objectives</h4>
+                        </div>
+                        <p>Menargetkan 10-15 peserta sesuai target audiens serta meningkatkan interaksi dan eksposur Kedai Kita Bintaro di media sosial. Keberhasilan kampanye diukur melalui jumlah peserta, tingkat partisipasi, dan engagement yang dihasilkan selama kampanye berlangsung. Selain itu, keberhasilan juga diukur dari kepuasan peserta mengenai kampanye ini melalui feedback positif yang diberikan.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="assets" class="section-assets">
+            <div class="container">
+                <div class="section-header">
+                    <span class="sub-title">Brand Kit & Publication Media</span>
+                    <h2>Campaign Assets</h2>
+                    <div class="line-accent"></div>
+                </div>
+                
+                <div class="assets-grid">
+                    <div class="asset-item">
+                        <img src="Factsheet.jpeg" alt="Factsheet Kedai Kita">
+                        <h4>Factsheet</h4>
+                    </div>
+                    <div class="asset-item">
+                        <img src="Brosur (1).jpeg" alt="Brosur Halaman 1">
+                        <h4>Brosur 1</h4>
+                    </div>
+                    <div class="asset-item">
+                        <img src="Brosur (2).jpeg" alt="Brosur Halaman 2">
+                        <h4>Brosur 2</h4>
+                    </div>
+                    <div class="asset-item">
+                        <img src="Poster.jpeg" alt="Poster Kampanye">
+                        <h4>Poster Campaign</h4>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="agency" class="section-agency">
+            <div class="container">
+                <div class="section-header">
+                    <span class="sub-title">in collaboration with</span>
+                    <h2>Alta Agency Capability</h2>
+                    <div class="line-accent"></div>
+                </div>
+
+                <div class="value-grid">
+                    <div class="value-card">
+                        <div class="value-number">01</div>
+                        <h4>Profesional</h4>
+                        <p>Mengutamakan penyampaian kreatif namun diikuti dengan eksekusi jasa yang serius.</p>
+                    </div>
+                    
+                    <div class="value-card">
+                        <div class="value-number">02</div>
+                        <h4>Collaborative</h4>
+                        <p>Menjadi partner kerja yang responsive terhadap client atau pun audience secara transparan, adaptive, dan berempati.</p>
+                    </div>
+
+                    <div class="value-card">
+                        <div class="value-number">03</div>
+                        <h4>Fun</h4>
+                        <p>Menciptakan lingkungan kerja dan hasil kampanye yang menyenangkan serta relevan dengan target audiens.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="contact" class="section-contact">
+            <div class="container">
+                <div class="contact-box">
+                    <div class="contact-info-side">
+                        <h2>Let's Collaborate</h2>
+                        <p style="color: var(--nude); margin-bottom: 15px;">Hubungi kami untuk info kerja sama, publikasi, dan aktivasi strategi komunikasi kreatif.</p>
+                        <div class="line-accent-light"></div>
+                    </div>
+                    <div class="contact-links-side">
+                        <div class="contact-item-link">
+                            <span class="icon">📸</span>
+                            <div class="detail">
+                                <label>INSTAGRAM</label>
+                                <a href="https://instagram.com/kedaikitabintaro" target="_blank">@kedaikitabintaro</a>
+                            </div>
+                        </div>
+                        <div class="contact-item-link">
+                            <span class="icon">💬</span>
+                            <div class="detail">
+                                <label>WHATSAPP / HOTLINE</label>
+                                <a href="https://wa.me/6285176719901" target="_blank">085176719901</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container text-center" style="padding: 20px 0 0 0;">
+            <p>&copy; 2026 Kedai Kita x Alta Agency. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
+/* CSS RESET & PALETTE CONFIGURATION */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --dark-brown: #3E2723;
+    --cream: #FFF8E7;
+    --nude: #D7CCC8;
+    --soft-nude: #F5EBE6;
+    --black: #1A1A1A;
+    --white: #FFFFFF;
+    --accent-gold: #CDA45E;
+    --font-heading: 'Playfair Display', serif;
+    --font-body: 'Plus Jakarta Sans', sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: var(--font-body);
+    background-color: var(--soft-nude);
+    color: var(--black);
+    line-height: 1.7;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 80px 0;
+}
+
+/* NAVBAR STYLE */
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(62, 39, 35, 0.95);
+    box-shadow: 0 2px 15px rgba(0,0,0,0.15);
+    z-index: 1000;
+    backdrop-filter: blur(5px);
+    border-bottom: 1px solid var(--accent-gold);
+}
+
+.nav-container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+}
+
+.logo-link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.nav-logo-img {
+    height: 45px;
+    width: auto;
+    border-radius: 4px;
+}
+
+.nav-menu a {
+    color: var(--nude);
+    text-decoration: none;
+    margin-left: 25px;
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: color 0.3s ease;
+}
+
+.nav-menu a:hover {
+    color: var(--white);
+}
+
+/* SECTION 1: HOME (HERO COZY CAFE VIBE) */
+.section-hero {
+    position: relative;
+    min-height: 100vh;
+    padding-top: 140px;
+    padding-bottom: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: linear-gradient(135deg, rgba(26,26,26,0.93) 0%, rgba(62,39,35,0.88) 100%), 
+                url('Suasana Cafe Kedai Kita (1).jpeg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: var(--cream);
+}
+
+.hero-content {
+    max-width: 900px;
+    width: 90%;
+    z-index: 2;
+}
+
+.badge {
+    background-color: var(--accent-gold);
+    color: var(--black);
+    padding: 6px 16px;
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.section-hero h1 {
+    font-family: var(--font-heading);
+    font-size: 64px;
+    font-weight: 800;
+    margin-bottom: 5px;
+    letter-spacing: 1px;
+}
+
+.hero-tagline {
+    font-family: var(--font-heading);
+    font-style: italic;
+    font-size: 20px;
+    color: var(--nude);
+    margin-bottom: 45px;
+}
+
+.profile-card {
+    background-color: rgba(26, 26, 26, 0.7);
+    border: 1px solid rgba(215, 204, 200, 0.2);
+    padding: 40px;
+    border-radius: 4px;
+    backdrop-filter: blur(8px);
+    margin-bottom: 40px;
+    text-align: left;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+}
+
+.profile-card h2 {
+    font-family: var(--font-heading);
+    color: var(--accent-gold);
+    font-size: 28px;
+    margin-bottom: 15px;
+    position: relative;
+    display: inline-block;
+}
+
+.profile-card h2::after {
+    content: '';
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    width: 50px;
+    height: 2px;
+    background-color: var(--accent-gold);
+}
+
+.profile-card p {
+    font-size: 15.5px;
+    color: #E0E0E0;
+    line-height: 1.8;
+}
+
+/* Gallery inside Profile */
+.image-gallery {
+    display: flex;
+    gap: 15px;
+    margin: 25px 0;
+    overflow-x: auto;
+}
+
+.image-gallery img {
+    width: 100%;
+    max-width: 350px;
+    height: 220px;
+    border-radius: 6px;
+    object-fit: cover;
+    border: 1px solid rgba(255,255,255,0.1);
+}
+
+/* Visi Misi Grid */
+.vision-mission-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 25px;
+    text-align: left;
+}
+
+.vm-block {
+    background-color: rgba(62, 39, 35, 0.85);
+    padding: 30px;
+    border-radius: 4px;
+    border: 1px solid rgba(215, 204, 200, 0.1);
+    border-left: 4px solid var(--accent-gold);
+}
+
+.vm-block h3 {
+    font-family: var(--font-heading);
+    color: var(--cream);
+    font-size: 22px;
+    margin-bottom: 15px;
+}
+
+.vm-block p {
+    font-size: 15px;
+    color: #E0D7D5;
+}
+
+/* Floating Aesthetic Accents */
+.floating-accent {
+    position: absolute;
+    opacity: 0.15;
+    pointer-events: none;
+    user-select: none;
+}
+.pizza-icon { top: 18%; left: 8%; font-size: 50px; transform: rotate(-15deg); }
+.fashion-icon { bottom: 25%; right: 8%; font-size: 50px; transform: rotate(20deg); }
+
+/* SECTION 2: AGENCY */
+.section-agency {
+    background-color: var(--cream);
+    color: var(--black);
+}
+
+.section-header {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.sub-title {
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: var(--dark-brown);
+    font-weight: 700;
+    display: block;
+    margin-bottom: 8px;
+}
+
+.section-header h2 {
+    font-family: var(--font-heading);
+    font-size: 38px;
+    color: var(--dark-brown);
+}
+
+.line-accent {
+    width: 60px;
+    height: 3px;
+    background-color: var(--dark-brown);
+    margin: 15px auto 0;
+}
+
+/* Value Team Grid */
+.value-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}
+
+.value-card {
+    background-color: var(--white);
+    padding: 35px 30px;
+    border-radius: 4px;
+    box-shadow: 0 5px 20px rgba(62, 39, 35, 0.05);
+    border-top: 4px solid var(--dark-brown);
+    transition: transform 0.3s ease;
+}
+
+.value-card:hover {
+    transform: translateY(-5px);
+}
+
+.value-number {
+    font-family: var(--font-heading);
+    font-size: 32px;
+    color: var(--nude);
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.value-card h4 {
+    font-family: var(--font-heading);
+    font-size: 22px;
+    color: var(--black);
+    margin-bottom: 12px;
+}
+
+/* SECTION 3: ABOUT CAMPAIGN */
+.section-campaign {
+    background-color: var(--black);
+    color: var(--cream);
+    position: relative;
+}
+
+.campaign-bg-graphics {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 25px solid rgba(215, 204, 200, 0.02);
+    pointer-events: none;
+}
+
+.campaign-hero-center {
+    text-align: center;
+    margin-bottom: 60px;
+    padding: 50px 0;
+    border-top: 1px solid rgba(255,255,255,0.1);
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+
+.campaign-badge {
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: var(--nude);
+    margin-bottom: 12px;
+    display: block;
+}
+
+.campaign-title {
+    font-family: var(--font-heading);
+    font-size: 46px;
+    font-weight: 700;
+    color: var(--white);
+}
+
+.campaign-tagline {
+    font-family: var(--font-heading);
+    font-style: italic;
+    font-size: 24px;
+    color: var(--accent-gold);
+    margin-top: 8px;
+}
+
+.campaign-explanation {
+    background-color: rgba(62, 39, 35, 0.3);
+    border: 1px solid rgba(215, 204, 200, 0.15);
+    padding: 45px;
+    border-radius: 4px;
+    margin-bottom: 70px;
+}
+
+.explanation-inner h3 {
+    font-family: var(--font-heading);
+    font-size: 26px;
+    color: var(--white);
+    margin-bottom: 20px;
+}
+
+.explanation-inner p {
+    margin-bottom: 20px;
+    font-size: 15px;
+    color: #E0E0E0;
+    text-align: justify;
+}
+
+.explanation-inner p:last-child {
+    margin-bottom: 0;
+}
+
+/* Objectives Grid */
+.objectives-title-main {
+    font-family: var(--font-heading);
+    font-size: 32px;
+    text-align: center;
+    margin-bottom: 45px;
+    color: var(--white);
+}
+
+.objectives-row {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}
+
+.objective-card {
+    background-color: #222222;
+    padding: 35px 25px;
+    border-radius: 4px;
+    border: 1px solid rgba(255,255,255,0.05);
+}
+
+.obj-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.obj-type {
+    background-color: var(--dark-brown);
+    color: var(--cream);
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    font-weight: 700;
+    margin-right: 12px;
+    font-size: 14px;
+    border: 1px solid var(--accent-gold);
+}
+
+.objective-card h4 {
+    font-family: var(--font-heading);
+    font-size: 18px;
+    color: var(--accent-gold);
+}
+
+.objective-card p {
+    font-size: 14px;
+    color: #B3B3B3;
+    line-height: 1.6;
+}
+
+/* SECTION 4: ASSETS GALLERY */
+.section-assets {
+    background-color: var(--soft-nude);
+    color: var(--black);
+}
+
+.assets-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 30px;
+    margin-top: 40px;
+}
+
+.asset-item {
+    background-color: var(--white);
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 5px 20px rgba(62, 39, 35, 0.05);
+    text-align: center;
+    transition: transform 0.3s ease;
+    border: 1px solid rgba(215, 204, 200, 0.3);
+}
+
+.asset-item:hover {
+    transform: translateY(-8px);
+}
+
+.asset-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    margin-bottom: 15px;
+    object-fit: contain;
+    border: 1px solid rgba(0,0,0,0.03);
+    max-height: 380px; /* Memastikan rasio vertikal poster/brosur pas */
+}
+
+.asset-item h4 {
+    font-family: var(--font-heading);
+    color: var(--dark-brown);
+    font-size: 20px;
+}
+
+/* SECTION 5: CONTACT US */
+.section-contact {
+    background-color: var(--dark-brown);
+}
+
+.contact-box {
+    background-color: var(--black);
+    border: 1px solid var(--accent-gold);
+    border-radius: 4px;
+    padding: 60px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 50px;
+    align-items: center;
+}
+
+.contact-info-side h2 {
+    font-family: var(--font-heading);
+    font-size: 36px;
+    margin-bottom: 15px;
+    color: var(--white);
+}
+
+.line-accent-light {
+    width: 50px;
+    height: 2px;
+    background-color: var(--accent-gold);
+    margin-top: 25px;
+}
+
+.contact-links-side {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.contact-item-link {
+    display: flex;
+    align-items: center;
+    background-color: rgba(62, 39, 35, 0.4);
+    padding: 18px 25px;
+    border-radius: 4px;
+    border: 1px solid rgba(215, 204, 200, 0.1);
+}
+
+.contact-item-link .icon {
+    font-size: 28px;
+    margin-right: 20px;
+}
+
+.contact-item-link .detail label {
+    display: block;
+    font-size: 11px;
+    text-transform: uppercase;
+    color: var(--nude);
+    letter-spacing: 1px;
+    margin-bottom: 2px;
+}
+
+.contact-item-link .detail a {
+    color: var(--white);
+    text-decoration: none;
+    font-size: 19px;
+    font-weight: 600;
+    transition: color 0.3s ease;
+}
+
+.contact-item-link .detail a:hover {
+    color: var(--accent-gold);
+}
+
+/* FOOTER */
+footer {
+    background-color: var(--black);
+    color: rgba(255,255,255,0.4);
+    padding: 30px 0;
+    font-size: 13px;
+    border-top: 1px solid #252525;
+}
+
+.text-center {
+    text-align: center;
+}
+
+/* RESPONSIVE LAYOUT */
+@media (max-width: 992px) {
+    .value-grid, .objectives-row, .contact-box {
+        grid-template-columns: 1fr;
+    }
+    .contact-box {
+        padding: 40px 20px;
+    }
+}
+
+@media (max-width: 768px) {
+    .section-hero h1 { font-size: 42px; }
+    .campaign-title { font-size: 32px; }
+    .nav-menu { display: none; } 
+}
